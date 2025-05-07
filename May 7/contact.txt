@@ -1,0 +1,22 @@
+{
+    "viswalakshmi": {
+        "phone": "9946",
+        "email": "viswalakshmi@gmail.com",
+        "address": ""
+    },
+    "john": {
+        "phone": "8765",
+        "email": "john@gmail.com",
+        "address": ""
+    },
+    "Anna": {
+        "phone": "7654",
+        "email": "anna@gmail.com",
+        "address": ""
+    },
+    "Ammu": {
+        "phone": "9876",
+        "email": "ammu@gmail.com",
+        "address": ""
+    }
+}
