@@ -21,4 +21,3 @@ Variance: $74011.92
 
 === Basic Statistics Calculation Completed ===
 
-Full statistics saved to: C:\Users\Viswalakshmi P Vino\OneDrive\Desktop\Internship\Week1\May 8\math\basic_statistics_output.txt
