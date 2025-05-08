@@ -1,0 +1,24 @@
+=== Basic Sales Data Statistics using NumPy ===
+
+
+--- Total Sales Statistics ---
+Mean (Average): $13057.86
+Median: $10581.70
+Standard Deviation: $10877.91
+Variance: $118328875.92
+
+--- Units Sold Statistics ---
+Mean (Average): 24.67 units
+Median: 24.50 units
+Standard Deviation: 14.76 units
+Variance: 217.96
+
+--- Unit Price Statistics ---
+Mean (Average): $527.54
+Median: $511.17
+Standard Deviation: $272.05
+Variance: $74011.92
+
+=== Basic Statistics Calculation Completed ===
+
+Full statistics saved to: C:\Users\Viswalakshmi P Vino\OneDrive\Desktop\Internship\Week1\May 8\math\basic_statistics_output.txt
