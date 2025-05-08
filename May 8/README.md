@@ -1,4 +1,4 @@
-# May 8 Projects
+**# May 8 Projects
 
 This folder contains projects and exercises completed on May 8, 2025 as part of my internship program.
 
@@ -15,7 +15,6 @@ This folder contains projects and exercises completed on May 8, 2025 as part of 
 This project analyzes sales data to extract insights and patterns. It includes:
 - Data validation functions
 - Sales analysis functions
-- Visualization outputs
 
 ### Bar Chart
 Visualization exercises demonstrating the use of bar charts for data representation.
@@ -27,3 +26,4 @@ Implementation of various mathematical functions and algorithms.
 - Python
 - Data Analysis Libraries (Pandas, NumPy)
 - Visualization Tools (Matplotlib, Seaborn)
+**
